@@ -1,0 +1,6 @@
+.env
+invoice_state.json
+*.pdf
+*.log
+venv/
+__pycache__/
